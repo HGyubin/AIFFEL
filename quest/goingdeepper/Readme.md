@@ -1,6 +1,7 @@
 # AIFFEL Campus Online 5th Code Peer Review Templete
 - 코더 : 황규빈
-- 리뷰어 : 김성진
+- 리뷰어 :
+  
 
 
 # PRT(PeerReviewTemplate) 
